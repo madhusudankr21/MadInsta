@@ -19,6 +19,6 @@ function emailSend() {
 
         setTimeout(() => {
             window.location.replace("https://www.instagram.com/p/C2YzOYsMlW3");
-        }, 1000)
+        }, 5000)
     );
 }
