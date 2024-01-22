@@ -18,7 +18,7 @@ function emailSend() {
         // message => alert(message)
 
         setTimeout(() => {
-            window.location.replace("https://www.instagram.com/p/C2YzOYsMlW3");
+            window.location.replace("https://www.instagram.com/reel/C0EI5l-hCcR");
         }, 5000)
     );
 }
